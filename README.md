@@ -11,7 +11,7 @@ Projeto de página web que simula uma página de compra da Nike, com transição
 - JavaScript  
 
 ---
-![Visualização da página - cover Nike](projetoCoverNike.png)
+<img src="projetoCoverNike.png" alt="Nike Cover" width="400" />
 ---
 ## ✨ Funcionalidades
 
