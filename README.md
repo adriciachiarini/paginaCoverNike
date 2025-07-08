@@ -12,7 +12,7 @@ Projeto de página web que simula uma página de compra da Nike, com transição
 
 ---
 <img src="projetoCoverNike.png" alt="Nike Cover" width="400" />
----
+
 ## ✨ Funcionalidades
 
 - Transição suave entre imagens dos tênis  
