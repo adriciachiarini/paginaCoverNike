@@ -151,8 +151,8 @@ transition: all 0.3s ease;
 @media (max-width: 768px) {
   body {
     padding: 20px;
-    height: auto;      /* permite rolagem vertical */
-    overflow: visible; /* deixa a página rolar */
+    height: auto;      
+    overflow: visible; 
   }
 
   .caixaprincipal {
@@ -168,7 +168,7 @@ transition: all 0.3s ease;
   }
 
   .imgtenis {
-    width: 220px !important; /* reduz tamanho mantendo rotação */
+    width: 220px !important; 
     transform: rotate(-25deg) !important;
     filter: drop-shadow(15px 20px 20px #161616);
     margin: 0 auto;
