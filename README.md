@@ -21,8 +21,8 @@ Projeto de página web que simula uma página de compra da Nike, com transição
 
 ---
 
-## 🚀 Como usar
+## Você pode visualizar meu site em:
 
-1. Clone este repositório:  
-```bash
-git clone https://github.com/seuusuario/seuprojeto.git
+https://adriciachiarini.github.io/paginaCoverNike/
+
+
